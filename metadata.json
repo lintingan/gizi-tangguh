@@ -1,0 +1,6 @@
+{
+  "name": "GiziTangguh Play",
+  "description": "Aplikasi WebGIS edukasi interaktif pemetaan sumber pangan, risiko bencana, dan game simulasi distribusi pangan siaga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

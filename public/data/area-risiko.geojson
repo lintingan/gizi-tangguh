@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "name": "Area Risiko Bencana Simulasi",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.8, -6.0],
+            [108.5, -6.1],
+            [109.8, -6.7],
+            [110.8, -6.7],
+            [110.8, -7.0],
+            [109.5, -7.0],
+            [108.0, -6.5],
+            [106.8, -6.3],
+            [106.8, -6.0]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RISK-01",
+        "name": "Area Simulasi Risiko Banjir Pesisir Utara Jawa",
+        "riskLevel": "Tinggi",
+        "hazardType": "Banjir Rob & Luapan Sungai (Simulasi)",
+        "populationEstimate": 45000,
+        "dataStatus": "AREA RISIKO SIMULASI",
+        "description": "Poligon simulasi genangan pasang air laut dan potensi terputusnya jalur logistik darat."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [100.0, -1.5],
+            [101.8, -1.0],
+            [102.5, -2.5],
+            [101.2, -3.2],
+            [99.8, -2.2],
+            [100.0, -1.5]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RISK-02",
+        "name": "Area Simulasi Kerentanan Gempa Bumi Tektonik",
+        "riskLevel": "Sedang",
+        "hazardType": "Sesar Aktif Darat (Simulasi)",
+        "populationEstimate": 28000,
+        "dataStatus": "AREA RISIKO SIMULASI",
+        "description": "Zona simulasi patahan lempeng aktif dengan kebutuhan siaga lumbung bergerak."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [122.5, -9.5],
+            [125.0, -9.0],
+            [125.5, -10.5],
+            [123.0, -10.8],
+            [122.5, -9.5]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RISK-03",
+        "name": "Area Simulasi Kerawanan Pangan Musim Kering",
+        "riskLevel": "Sedang",
+        "hazardType": "Anomali Iklim & Kekeringan (Simulasi)",
+        "populationEstimate": 19500,
+        "dataStatus": "AREA RISIKO SIMULASI",
+        "description": "Zona simulasi penurunan curah hujan tajam yang memicu perlunya percepatan pasokan kacang dan karbohidrat lokal."
+      }
+    }
+  ]
+}

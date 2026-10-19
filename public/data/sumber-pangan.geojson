@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "name": "Titik Sumber Pangan Edukasi Simulasi",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [107.6191, -6.9175] },
+      "properties": {
+        "id": "FS-01",
+        "name": "Gudang Penyangga Simulasi Jawa Barat",
+        "category": "Gudang Penyangga Regional",
+        "longitude": 107.6191,
+        "latitude": -6.9175,
+        "capacity": 1200,
+        "unit": "Ton",
+        "dataStatus": "DATA SIMULASI — DEMO",
+        "region": "Jawa Barat (Simulasi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.3695, -7.7956] },
+      "properties": {
+        "id": "FS-02",
+        "name": "Lumbung Padi Komunitas Simulasi Sleman",
+        "category": "Lumbung Karbohidrat",
+        "longitude": 110.3695,
+        "latitude": -7.7956,
+        "capacity": 450,
+        "unit": "Ton",
+        "dataStatus": "DATA SIMULASI — DEMO",
+        "region": "D.I. Yogyakarta (Simulasi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [112.7521, -7.2575] },
+      "properties": {
+        "id": "FS-03",
+        "name": "Sentra Distribusi Pangan Simulasi Surabaya",
+        "category": "Depo Logistik Darurat",
+        "longitude": 112.7521,
+        "latitude": -7.2575,
+        "capacity": 980,
+        "unit": "Ton",
+        "dataStatus": "DATA SIMULASI — DEMO",
+        "region": "Jawa Timur (Simulasi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.3543, -0.9492] },
+      "properties": {
+        "id": "FS-04",
+        "name": "Depo Pangan Darurat Simulasi Padang",
+        "category": "Depo Logistik Darurat",
+        "longitude": 100.3543,
+        "latitude": -0.9492,
+        "capacity": 620,
+        "unit": "Ton",
+        "dataStatus": "DATA SIMULASI — DEMO",
+        "region": "Sumatera Barat (Simulasi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.5901, -3.3167] },
+      "properties": {
+        "id": "FS-05",
+        "name": "Lumbung Pangan Komunitas Simulasi Banjarmasin",
+        "category": "Lumbung Karbohidrat",
+        "longitude": 114.5901,
+        "latitude": -3.3167,
+        "capacity": 380,
+        "unit": "Ton",
+        "dataStatus": "DATA SIMULASI — DEMO",
+        "region": "Kalimantan Selatan (Simulasi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [119.4327, -5.1477] },
+      "properties": {
+        "id": "FS-06",
+        "name": "Pusat Logistik Simulasi Makassar",
+        "category": "Gudang Penyangga Regional",
+        "longitude": 119.4327,
+        "latitude": -5.1477,
+        "capacity": 1100,
+        "unit": "Ton",
+        "dataStatus": "DATA SIMULASI — DEMO",
+        "region": "Sulawesi Selatan (Simulasi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [123.607, -10.1772] },
+      "properties": {
+        "id": "FS-07",
+        "name": "Sentra Protein & Pangan Lokal Simulasi Kupang",
+        "category": "Sentra Protein & Sayur",
+        "longitude": 123.607,
+        "latitude": -10.1772,
+        "capacity": 290,
+        "unit": "Ton",
+        "dataStatus": "DATA SIMULASI — DEMO",
+        "region": "Nusa Tenggara Timur (Simulasi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [140.7181, -2.5337] },
+      "properties": {
+        "id": "FS-08",
+        "name": "Pangkalan Pangan Lokal Simulasi Jayapura",
+        "category": "Lumbung Karbohidrat",
+        "longitude": 140.7181,
+        "latitude": -2.5337,
+        "capacity": 340,
+        "unit": "Ton",
+        "dataStatus": "DATA SIMULASI — DEMO",
+        "region": "Papua (Simulasi)"
+      }
+    }
+  ]
+}
